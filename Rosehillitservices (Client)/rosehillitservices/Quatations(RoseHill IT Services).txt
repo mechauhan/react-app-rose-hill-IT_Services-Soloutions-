@@ -1,0 +1,37 @@
+
+Basic Pages:
+
+1. Homepage. The homepage is where all the action happens on your site. ...
+2. About Page. The About page is an opportunity to elaborate on your brand's vision and accomplishments. ...
+3. Contact Us
+4. Login Page 
+5. Register
+
+Own Pages:
+1.Service Pages
+ If you offer any services
+
+2. Products
+	If there are any products that you want to sell
+
+3. FAQ (Frequently Asked Questions)
+
+4. Testimonials/ Review Pages
+
+5. Latest News Pages
+
+6. Privacy Policy Page
+
+7. Terms and Condition Page
+
+8. Sitemap
+
+9. Page Not Found
+
+10. Events page
+
+11. Jobs or careers page
+
+12. Search result page
+
+13. Under Maintainence
