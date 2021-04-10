@@ -3,5 +3,11 @@
 */
 
 .Fotter {
-    /* propertys here */
+  /* propertys here */
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  padding: 50px;
 }
